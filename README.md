@@ -95,5 +95,19 @@ Long-term goal: grow into advanced blue-team and security leadership roles throu
 
 ---
 
+## 📂 Featured SOC Projects
+
+🔐 **Windows Failed Logon Analyzer (Event ID 4625)**  
+Python-based SOC lab analyzing Windows Security logs to identify failed authentication attempts, attacker behavior, and investigation indicators.
+
+👉 https://github.com/SilentIOC/windows-event-4625-analyzer
+
+**Skills demonstrated:**
+- Windows Event Log analysis
+- Authentication failure investigation
+- Python log parsing & reporting
+- SOC-style documentation
+
+
 ## 📫 Let’s Connect
 💼 LinkedIn: https://www.linkedin.com/in/julioebetancourtjr/
